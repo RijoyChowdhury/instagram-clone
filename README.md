@@ -27,3 +27,15 @@ yarn create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+## Packages used
+
+Heroicons. [Github](https://github.com/tailwindlabs/heroicons)
+Tailwindcss/forms. [Github](https://github.com/tailwindlabs/tailwindcss-forms)
+Scrollbar Plugin for Tailwind CSS. [NPM Repository](https://www.npmjs.com/package/tailwind-scrollbar)
+Tailwind-scrollbar-hide. [NPM Repository](https://www.npmjs.com/package/tailwind-scrollbar-hide)
+Faker.js [Github](https://github.com/marak/Faker.js/)
+NextAuth.js (v4.0) [Documentation](https://next-auth.js.org/getting-started/introduction)
+Firebase [Webbsite](https://firebase.google.com/)
+Recoil (State Management) [Documentation](https://recoiljs.org/)
+Headless UI [Website](https://headlessui.dev/)
